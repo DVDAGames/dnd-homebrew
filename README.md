@@ -10,16 +10,16 @@ Below we'll go over each type of homebrew in this repository and give you a quic
 
 #### Backgrounds
 
-- [Gambler](https://github.com/dvdagames/dnd-homebrew/blob/master/Backgrounds/Gambler/)
+- [Gambler](https://github.com/DVDAGames/dnd-homebrew/tree/master/Backgrounds/Gambler)
   - Leans more towards Chaos, but not Evil
   - Coin-based utility Feature and a gold-focused Variant
   - **Proficiency Choices**: Deception or Persuasion; Sleight of Hand, Insight, or Perception
 
 #### Monsters
 
-- [Canine Companions]()
+- [Canine Companions Monster Guide](https://github.com/DVDAGames/dnd-homebrew/tree/master/Monsters/Canine%20Companions%20Monster%20Guide)
   - Flavorful and unique companions to replace lack of diverse canines
   - Interesting Reactions and realistic Traits
   - Available Canines:
-    - [Tundra Mastiff](): Siberian Husky-like dog companion functionality
-    - [Herding Mastiff](): GSD-like dog companion
+    - **Tundra Mastiff**: Siberian Husky-like dog companion
+    - **Herding Mastiff**: German Shepherd-like dog companion
