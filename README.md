@@ -8,6 +8,13 @@ There are multiple types of homebrew in this repository, and each comes with a M
 
 Below we'll go over each type of homebrew in this repository and give you a quick rundown of what each has to offer.
 
+#### Adventures
+
+- [Red Hand the Devourer](https://github.com/DVDAGames/dnd-homebrew/tree/master/Adventures/Red%20Hand%20the%20Devourer)
+  - Combat-heavy, but varied introductory oneshot
+  - Optimized for small, low-level party
+  - Unique combat mechanics
+
 #### Backgrounds
 
 - [Gambler](https://github.com/DVDAGames/dnd-homebrew/tree/master/Backgrounds/Gambler)

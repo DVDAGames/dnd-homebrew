@@ -1,4 +1,4 @@
-## Red Hand Cult Adventure
+## Red Hand the Devourer Adventure
 
 **Version**: 1.0.0
 
