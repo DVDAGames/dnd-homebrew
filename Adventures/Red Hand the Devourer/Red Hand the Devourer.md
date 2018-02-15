@@ -32,7 +32,7 @@ The prices here are non-negotiable. This is the only store within a day's travel
 
 The inn is simple and somewhat quaint, but good enough for a weary traveler to spend a night. Its main room has a high ceiling with a large, open fireplace in the center of the room, presumably this is where it gets its name. There is a bar of simple, unvarnished wood in the back corner. It's dinged and scratched in many places. You can see where some pieces of wood were pried away and recently replaced with new, unmarred planks. There are a few other travelers sitting at tables eating and drinking. Those that traveled alone tend to sit alone and those that traveled together tend to sit together. This isn't a place for making new friends.
 
-Grisel, the inkeeper, is behind the bar, while her brother Ranulf moves between tables clearing empty plates and glasses and taking orders. Every so often he'll take a load through the door behind Grisel to the kitchen and come back out with some small plate of food to drop off at another table.
+Grisel, the innkeeper, is behind the bar, while her brother Ranulf moves between tables clearing empty plates and glasses and taking orders. Every so often he'll take a load through the door behind Grisel to the kitchen and come back out with some small plate of food to drop off at another table.
 
 #### Grisel
 
@@ -75,7 +75,7 @@ Feel free to liven things up with a loud, drunken patron - or two - and, if time
 
 #### The Interruption
 
-As the party is chatting with Grisel, enjoying their food and drink, or about to leave, have a dishevelled and injured man push through the door, gasping, bleeding, and frantic.
+As the party is chatting with Grisel, enjoying their food and drink, or about to leave, have a disheveled and injured man push through the door, gasping, bleeding, and frantic.
 
 *Help! You have to help. They took her!*
 
@@ -99,7 +99,7 @@ The players now have **4 days** to stop Red Hand's ritual.
 
 #### The Historian's Room
 
-It is not necessary to visit the Historian's Room, but it gives the players an early chance to roleplay a bit.
+It is not necessary to visit the Historian's Room, but it gives the players an early chance to role play a bit.
 
 The players have many ways of potentially gaining access to this room, some examples are listed below, but any creative use of the rules should allow players access:
 
@@ -233,7 +233,7 @@ After the goblins are dispatched, the players may choose to look closer at the c
 
 If an adventurer makes an acceptable offering, they will receive the **Blessing of the Aegis Order**, which gives them +2 damage to Undead for 5 days.
 
-If an adventurer makes an unacceptable offering, the smoke will curl and wrihte into a Shadow which will attack the one who made the offering.
+If an adventurer makes an unacceptable offering, the smoke will curl and writhe into a Shadow which will attack the one who made the offering.
 
 **Acceptable Offerings**:  1 sp (or more), food, scroll, book, ring, amulet, etc. Basically inanimate things with some value.
 
@@ -249,7 +249,7 @@ The dim hallway stretches ahead. The ominous chanting has grown much louder, its
 
 **If you want to expose the adventurers to a trap**:  Have them see a bugbear corpse lying against the left wall with a hole all the way through its chest and out through its spine. If Grub is with the group he can remark on that being Red Hand's brother and maybe mention how that doesn't look like Red Hand's heart-devouring, but some other kind of wound. This nicely telegraphs that there is likely a trap up ahead. If the party asks Grub about it, he can say that they weren't allowed to go past the Barracks. Choose a space ahead of them and just designate it in your head as a trap. They can move cautiously and search for traps, or they can run ahead carefree and get hit with a scythe.
 
-**If you don't want to expose the adventurers to a trap, but would like to mess with them**:  Have them see a scythe extending down from the cieling and caught on a large bugbear corpse. The corpse seems to be weighing the trap down and preventing it from retracting. The scythe blade has pierced completely through the bugbear's chest and is sticking out through his spine. This will make your adventurers think there is a trap, and you may even roll or have them roll to discover it or roll an acrobatics check to dodge it, just to keep the illusion up. If Grub is with the party have him mention that the bugbear was Red Hand's brother.
+**If you don't want to expose the adventurers to a trap, but would like to mess with them**:  Have them see a scythe extending down from the ceiling and caught on a large bugbear corpse. The corpse seems to be weighing the trap down and preventing it from retracting. The scythe blade has pierced completely through the bugbear's chest and is sticking out through his spine. This will make your adventurers think there is a trap, and you may even roll or have them roll to discover it or roll an acrobatics check to dodge it, just to keep the illusion up. If Grub is with the party have him mention that the bugbear was Red Hand's brother.
 
 **If you don't care about traps or messing with your adventurers:**  The hallway can be completely uneventful and empty, the sound just grows louder and louder as they near the end of the hall.
 
@@ -279,7 +279,7 @@ Two of the goblins appear to be emaciated and are missing their eyes and have a 
 
 If Grub is with the party he will step forward and begin to speak: *Knob! Let's get out of here. This is crazy, look what they're doing to our friends.*
 
-You can have Knob ignore Grub, or you could roll a Persuasion check and if it meets a DC of 15, Knob may feel confused and start to move towards his brother. At this point you may want to really pull some heart strings and have Red Hand begin to prepare him to become one of the Heartless Devotees (like the two misfigured goblins on the altar). You are welcome to have Knob get persuaded but not show it until he turns on the others in battle.
+You can have Knob ignore Grub, or you could roll a Persuasion check and if it meets a DC of 15, Knob may feel confused and start to move towards his brother. At this point you may want to really pull some heart strings and have Red Hand begin to prepare him to become one of the Heartless Devotees (like the two disfigured goblins on the altar). You are welcome to have Knob get persuaded but not show it until he turns on the others in battle.
 
 **If you want to have Red Hand begin to convert Knob**:  Red Hand looks from Grub to Knob and then back to Grub and scoffs. He sheathes his greatsword and grabs Knob's shoulders, lifting him effortlessly. He grabs the little goblin's throat with his left hand and pulls his right hand back. Stretching his fingers a few times, he shakes his hand and takes a deep breath. At this point, Grub should react by shouting out and begin running towards them, drawing his shortbow. He fires an arrow, but it whirs past the Bugbear's head.
 
@@ -301,11 +301,11 @@ If the adventurers took too long to reach the Chapel, Red Hand should be just fi
 
 The room is awash in an eerie purple glow, it appears to be coming from purple flames dancing in two large braziers on either side of the altar. The giant statue behind the altar, a large stone kite shield with a small cross on it seems to be floating in the air, and there is a small, but growing network of cracks visible on it's surface. A giant bugbear stands over the blood soaked corpses of a human female and a male goblin. A Goblin Shaman stands nearby, chanting a low, soft prayer. Two sickly Goblins stand near him, completely still.
 
-A booming voice seems to drop from the ceiling without any discernable source. It's speaking a strange language (*Infernal*) with overlapping voices.
+A booming voice seems to drop from the ceiling without any discernible source. It's speaking a strange language (*Infernal*) with overlapping voices.
 
 If an adventurer knows Infernal, they can hear: *These souls are only part of our pact. Your soul is mine, as well, Red Hand. Serve me well, and I'll let you keep it for awhile. Now go, show your new guests my power, and bring me their souls, as well.*
 
-If no adventurer knows Infernal:  the party will see Red Hand bow and turn around as the voice stops, glaring at them, sheathing his greatsword. He holds his hands in front of him, as though gripping a the hilt of sword in both hands and closes his eyes. A great blast of energy erupts from his hands and forms a massive blade of transluscent energy. It swirls with crimson and deep purple and a thick smoke rises from it.
+If no adventurer knows Infernal:  the party will see Red Hand bow and turn around as the voice stops, glaring at them, sheathing his greatsword. He holds his hands in front of him, as though gripping a the hilt of sword in both hands and closes his eyes. A great blast of energy erupts from his hands and forms a massive blade of translucent energy. It swirls with crimson and deep purple and a thick smoke rises from it.
 
 If you have a powerful group with some means of overcoming darkness, you may want to give Warlock Red Hand Devil's Sight and have the braziers suddenly extinguish, leaving the party in complete darkness until they create some light. You could also have the Goblin Shaman occasionally use his action to counter sources of light by extinguishing them via some magic, but this is entirely optional.
 
@@ -317,7 +317,7 @@ This battle can go many ways, here are a few things to keep in mind:
 
 1. **Heartless Devotees**:  These guys are minions and have 1 hp, make sure to describe them as looking weak and maybe give a player an "Are you sure you want to do that?" if they plan to use something powerful against them.
 2. **Liliana**:  If she wasn't freed earlier she can be freed during combat (this should have a pretty high DC due to the chaos of battle). She can draw a dagger from her boot, pick up Grub's shortbow if he dropped it and move to him to grab his quiver of arrows, or hold back and utilize Healing Word when necessary (2 1st level spell slots) and move to downed allies to use a healer's kit and stabilize them. She's sort of here as an extra helping hand if the party needs one. They may also just leave her shackled. She doesn't have any cantrips or other spells by default, but you can add something if you think your party needs a boost.
-3. **Grub**:  He can behave differently depending on a few different circumstances. If the Shaman ressurects Knob as a Heartless Devotee, Grub will plead with the party not to kill him and will attempt to close the distance to Heartless Knob and grapple him.
+3. **Grub**:  He can behave differently depending on a few different circumstances. If the Shaman resurrects Knob as a Heartless Devotee, Grub will plead with the party not to kill him and will attempt to close the distance to Heartless Knob and grapple him.
   - **Trapped**:  He has a shortsword and will attack any enemies that get near him. He will also attack the players if they didn't attempt to stop Red Hand from converting Knob. His entanglement is a special one, but can be dispelled if a party member is capable of dispelling magic, but that's not likely at this level. He will not attack Knob, but may attempt to grapple him.
   - **Free**:  He will mostly attack with his shortbow and attempt to get near Knob if he isn't surrounded by other enemies and grapple him.
 4. **Knob**:  He can behave differently depending on how you've decided things should have played out.
@@ -326,7 +326,7 @@ This battle can go many ways, here are a few things to keep in mind:
   - **Not Persuaded**:  Knob will focus mostly on Grub, trying to knock his brother out without killing him or allowing the others to kill him.
   - **Persuaded**:  You can decide how and when Knob turns on the cult if you had him be persuaded.
   - **Interrupted Conversion**:  If his conversion was interrupted, he'll just be lying there, but he'll be the first likely target for Red Hand to Devour as he won't need the full turn and can just remove his heart.
-5. **Rolo**:  The Shaman will mostly hang back, throw firebolts, and attempt to resurrect a Heartless Devotee whenever there aren't 2 active. If someone gets within melee he'll either Disengage and fall back or Shillelagh and take a swing at them.
+5. **Rolo**:  The Shaman will mostly hang back, throw Firebolts, and attempt to resurrect a Heartless Devotee whenever there aren't 2 active. If someone gets within melee he'll either Disengage and fall back or Shillelagh and take a swing at them.
 6. **Red Hand**:  Red Hand will behave slightly differently in Warlock form if the Ritual was completed. Either way he'll attempt to Devour a heart if his hp gets too low.
   - **Warlock**:  He'll use Lightning Lure to pull creatures towards him, or Eldritch Blast if no one is nearby. In the the 10ft. range he'll abuse his Long Limbs, Booming Blade, and his Shadow Blade to attack outside of most people's melee range and force them to take damage if they close the distance. At 5ft he'll mostly just swing his Shadow Blade. If the battle lasts more than 10 rounds, his Shadow Blade dissipates and he draws his greatsword. If you have a particularly tough party, he can use Arms of Hadar or Hex with his two 1st level spell slots. Warlock form heals more from Devouring.
   - **Regular**:  He'll try to close in to 10ft. and use his greatsword and Long Limbs. At low hp, he'll attempt to devour.
@@ -379,7 +379,7 @@ There are **eight more statues**, made of stone, slightly smaller, and less deta
 
 **Note**:  If the adventurers failed to stop Red Hand's Ritual, you may consider having this item be cursed with something like the weapon constantly makes the sound of a weeping person or that it glows brightly and whenever the wielder tries to hide. The sacred tomb of a powerful order of ancient holy knights was just desecrated. Use your imagination!*
 
-As the adventurers remove the weapon, they can see the shadow on the wall behind it reach out and grab the shadow of the weapon as it emits a low growl. The weapon slams back into the statues grip, which tightens, as the Shadow steps away from the wall. It roars at the adventurers and they can hear two of the statues behind them crumbling as two skeletons break free of the stone. One of them still has some of his stone carapace covering his head, chest, and legs and is wielding a stone longsword. He strides confidently towards the party. The other seems frail, completely unarmored and shambles towards the group with a stone shortsword. There is a lantern embedded in its ribcage that gives off an eery green glow.
+As the adventurers remove the weapon, they can see the shadow on the wall behind it reach out and grab the shadow of the weapon as it emits a low growl. The weapon slams back into the statues grip, which tightens, as the Shadow steps away from the wall. It roars at the adventurers and they can hear two of the statues behind them crumbling as two skeletons break free of the stone. One of them still has some of his stone carapace covering his head, chest, and legs and is wielding a stone longsword. He strides confidently towards the party. The other seems frail, completely unarmored and shambles towards the group with a stone shortsword. There is a lantern embedded in its ribcage that gives off an eerie green glow.
 
 **Note**:  We'll refer to the armored Skeleton as a *Skeleton Lieutenant* and the shambling Skeleton as a *Skeleton Minion*.
 
@@ -400,17 +400,17 @@ Ideally, the party defeats the Undead Aegis Knights. If not, you can figure out 
 
 #### The Reliquary (Aftermath)
 
-The fire in the brazier draws down until only hot coals radiate. The marble statue loosens its grip on the weapon and the adventurers can remove it.
+The fire in the brazier draws down until only hot coals radiate. The marble statue loosens its grip on the weapon and the adventurers can remove it. It's worth noting that this weapon makes the one who picked it up feel slightly rejuvenated (one of its perks is that it allows the character to rest in a similar fashion to the Elves' Trance ability as long as they have it equipped).
 
 As they retrieve the weapon, the whole tomb begins to shudder and rumble. They can hear the heavy stone of the secret door starting to roll shut. The party dashes for the exit and just barely escapes as the giant stone locks into place.
 
-There's no time for the party to catch their breath as the magic force that has kept the giant kite shield afloat gives out and the shield slams into the altar beneath it with a thunderous crash, stabbing through the ground before toppling forward and blocking the exit. The cieling starts to rain down on them as they look around for a way out.
+There's no time for the party to catch their breath as the magic force that has kept the giant kite shield afloat gives out and the shield slams into the altar beneath it with a thunderous crash, stabbing through the ground before toppling forward and blocking the exit. The ceiling starts to rain down on them as they look around for a way out.
 
 The ruined altar appears to open into some sort of dim tunnel beneath the tomb.
 
 #### Escape!
 
-The tunnel is dark, mustly, and rumbling voilently, but it isn't currently collapsing. The adventurers must navigate through the tunnel before it collapses.
+The tunnel is dark, musty, and rumbling violently, but it isn't currently collapsing. The adventurers must navigate through the tunnel before it collapses.
 
 This initiates a **Skill Challenge** which will end once the players have accumulated 5 successes or 3 failures. The Skills that will be especially useful in this Challenge are:  Perception, Insight, Investigation, Survival, and Nature.
 
@@ -426,7 +426,7 @@ Some challenge prompts:
 
 The basic goal here is to provide them with situations that will need to be dealt with and narrate a their harrowing escape (or blundering attempt at escape from the tunnels).
 
-After 5 successes or 3 failures, describe how they see a faint light ahead as a wall at the end of the tunnel begins to break apart. If they have accumulated 3 failures, give them one last chance to escape via an Acrobatics or Athletics check to get out of the way of the collapsing cave structure at the last minute. A failure here ends with an an unconscious player who must be dragged out of the debris and resucitated. If everyone fails, decide how you'd like to deal with that. If Liliana is with them, she can succeed and go to get help from Through Hills to dig out the adventurers and heal them.
+After 5 successes or 3 failures, describe how they see a faint light ahead as a wall at the end of the tunnel begins to break apart. If they have accumulated 3 failures, give them one last chance to escape via an Acrobatics or Athletics check to get out of the way of the collapsing cave structure at the last minute. A failure here ends with an an unconscious player who must be dragged out of the debris and resuscitated. If everyone fails, decide how you'd like to deal with that. If Liliana is with them, she can succeed and go to get help from Through Hills to dig out the adventurers and heal them.
 
 If the adventurers chased the wolves to their den earlier, this place should be familiar to them. If they didn't chase the wolves earlier, you can have the den be empty, but have the Historian's corpse laying here with his notebook of hints for the tomb and you can decide if he has his trinkets with bonuses to Skills that would have helped the party during their Skill Challenge. You could also choose to have him carrying a single magic item that would be useful to someone other than the player who received the weapon from the Tomb.
 
@@ -438,6 +438,6 @@ Upon returning to the hamlet, the adventurers can be walking into two different 
 
 **If they rescued Liliana**:  They will be welcomed as heroes and Torold will graciously thank them and give them the 1000 gp promised.
 
-**If the failed to save Liliana or she died during battle**:  If they brought her corpse back to be buried they will at least be thanked for their attempt and can choose to share or withold details of what happened. They may receive up to 100 gp for their service. If they didn't bring her corpse back, they will receive nothing and will be treated as though they are trying to take credit for something that they never attempted to do.
+**If the failed to save Liliana or she died during battle**:  If they brought her corpse back to be buried they will at least be thanked for their attempt and can choose to share or withhold details of what happened. They may receive up to 200 gp for their service. If they didn't bring her corpse back, they will receive nothing and will be treated as though they are trying to take credit for something that they never attempted to do. People won't be outwardly hostile towards the party, but they will not be friendly.
 
 **If they bring the Historian's corpse back**:  Grisel will be saddened by his demise, but glad to know his fate. She may ask if he was right about the tomb and the players can share whatever they'd like with her. She'll give them a small amount of gold (50 gp).
