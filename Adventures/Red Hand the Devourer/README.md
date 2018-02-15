@@ -17,3 +17,4 @@ It's created in a somewhat modular fashion that should allow DMs to add or remov
 - Add detailed rewards section, including good example items for the DM-chosen pieces
 - Make NPC roleplaying notes more obvious
 - Maybe come up with a more clever name for the overall adventure
+- Add Homebrewery PDF version
