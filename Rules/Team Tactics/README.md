@@ -50,7 +50,7 @@ Beyond that, we added some parameters like the distance between the characters, 
 
 **Team Tactic - Shield Vault**
 
-*Type*: Bollard: Reaction
+*Type*: Reaction; this Tactic uses both players Reactions for this round
 
 *Requirements*: Bollard: must have shield equipped and be able to hear; Artemis must have daggers equipped and be able to speak
 
