@@ -12,9 +12,10 @@ It's created in a somewhat modular fashion that should allow DMs to add or remov
 
 ### To Do
 
+- Change the name
+- Update with playtest feedback, findings, and adjustments
 - Add Monster Stat Blocks
 - Add NPC listing with quick reference details
 - Add detailed rewards section, including good example items for the DM-chosen pieces
 - Make NPC roleplaying notes more obvious
-- Maybe come up with a more clever name for the overall adventure
 - Add Homebrewery PDF version
