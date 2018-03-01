@@ -4,17 +4,17 @@
 
 **Team Tactics** are a combat rule variant for Fifth Edition that encourages your players to take risks and be creative in combat by rewarding them with new Actions that allow them to work together to achieve results they could not obtain alone. It's loosely based on something like *Chrono Trigger*'s Double and Triple Techs.
 
-To illustrate how this works, what it allows for, and how you might implement it, I'll provide an example based loosley on a real-world usecase from a recent game where one player decided to include another's character in their turn without having discussed this tactic at all beforehand and the other player just reacted and played along.
+To illustrate how this works, what it allows for, and how you might implement it, I'll provide an example based loosely on a real-world usecase from a recent game where one player decided to include another's character in their turn without having discussed this tactic at all beforehand and the other player just reacted and played along.
 
 ### Case Study: Shield Vault
 
-**Note**:  Names have been changed in the story below.
+**Note**:  Names have been changed for characters and players in the story below.
 
 I'm pretty sure the player was inspired by the "Diana! Shield!" moment from the *Wonder Woman* movie, and that's totally cool. What would our games be if we didn't ~steal~ borrow things from other media?
 
 ![Wonder Woman getting a Shield Vault with a little help from her friends](https://78.media.tumblr.com/3ac4c7bdf2321fd51b3dfc24a7df3e3a/tumblr_owu7p14TQL1wuk912o1_500.gif)
 
-For the purposes of this example let's assume we have a party of player characters engaged in combat with several enemies in close quarters. We'll be focusing on two of players and their characters:  **Artemis**, a Halfling Rogue controlled by Sara, and **Bollard**, a Goliath Figher controlled by Josh.
+For the purposes of this example let's assume we have a party of player characters engaged in combat with several enemies in close quarters. We'll be focusing on two of players and their characters:  **Artemis**, a Halfling Rogue controlled by Sara, and **Bollard**, a Goliath Fighter controlled by Josh.
 
 Artemis has ended up near Bollard without being able to do much movement because they have been surrounded by enemy creatures and impassable terrain features.
 
@@ -44,13 +44,13 @@ Now when they want to use this tactic again, they don't need to make any ability
 
 You can see in the action description below that we had to add some benefit to Bollard to make it worth using his Reaction to help his ally, and made it a Reaction for Artemis so she can still attack with both of her daggers using her Bonus Action.
 
-We also adjusted the amount of distance Artemis can cover with this movement so that it could potentially be used to solve environmental encounters that invovle pits, broken bridges, etc.
+We also adjusted the amount of distance Artemis can cover with this movement so that it could potentially be used to solve environmental encounters that involve pits, broken bridges, etc.
 
 Beyond that, we added some parameters like the distance between the characters, Bollard has to be able to hear, Artemis has to be able to speak, and both have to have their relevant items equipped (shield and daggers).
 
 **Team Tactic - Shield Vault**
 
-*Type*: Reaction; this Tactic uses both players Reactions for this round
+*Type*: Reaction
 
 *Requirements*: Bollard: must have shield equipped and be able to hear; Artemis must have daggers equipped and be able to speak
 
