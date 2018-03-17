@@ -52,7 +52,7 @@ Beyond that, we added some parameters like the distance between the characters, 
 
 *Type*: Reaction
 
-*Requirements*: Bollard: must have shield equipped and be able to hear; Artemis must have daggers equipped and be able to speak
+*Requirements*: Bollard: must have shield equipped and be able to hear; Artemis must have daggers equipped and be able to speak This Tactic can only be used once per encounter.
 
 *Range*: Artemis can take this Reaction when she moves within 10ft. of Bollard and has enough movement speed left to reach him; Bollard can take this Reaction when he is within 10ft. of Artemis and hears her shout, "Shield!"
 
